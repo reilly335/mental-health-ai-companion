@@ -1,0 +1,7 @@
+curl -X POST http://localhost:5004/notify \
+    -H "Content-Type: application/json" \
+    -d '{
+        "type": "sms",
+        "recipient": "+1234567890",
+        "message": "Your MH-AI alert: Significant deviation detected."
+    }'
