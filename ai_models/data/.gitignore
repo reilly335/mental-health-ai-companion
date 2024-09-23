@@ -1,0 +1,11 @@
+# Ignore all files in raw data
+raw/
+
+# Ignore processed data
+processed/
+
+# Allow scripts
+!scripts/
+
+# Ignore any temporary files
+*.tmp
