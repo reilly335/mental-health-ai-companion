@@ -1,0 +1,6 @@
+{
+    "type": "sms" or "email",
+    "recipient": "+1234567890" or "user@example.com",
+    "subject": "Notification Subject", (optional, for email)
+    "message": "Your notification message"
+}
