@@ -1,1 +1,14 @@
-#Placeholder
+# Python
+__pycache__/
+*.pyc
+.env
+
+# Node.js
+node_modules/
+
+# macOS
+.DS_Store
+
+# Secrets
+*.env
+
