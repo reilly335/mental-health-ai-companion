@@ -1,1 +1,4 @@
-
+Flask==2.0.2
+Flask-Cors==3.0.10
+twilio==6.60.0
+sendgrid==6.7.1
