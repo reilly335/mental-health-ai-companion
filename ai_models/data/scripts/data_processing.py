@@ -47,6 +47,7 @@ def load_raw_data():
         print("No raw data files found.")
         return pd.DataFrame()
 
+
 def preprocess_data(df):
     """
     Preprocess the data:
